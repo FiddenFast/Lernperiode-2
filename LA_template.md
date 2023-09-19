@@ -23,9 +23,7 @@ Ich möchte etwas entwickeln/programmieren das mir etwas nützt in welchem Berei
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
 
-- [ ] Es soll alle Daten in einen Ordner speichern
-- [ ] Und einzelne Listen haben, also verschiedene Unterordner
-- [ ] Es soll eine erste Mobile Version geben
-- [ ] Cloudlösung
+[x] Modul 431
+
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
