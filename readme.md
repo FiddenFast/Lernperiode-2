@@ -35,7 +35,7 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 
 ## Reflexion
 Heute habe ich eine Notenrechner erstellt. Am Ende konnte ich mich nicht richtig konzentrieren da es so laut war. 
-Mit Nael, Mert und Leandro haben wir zeitweise eine Webseite html erstellt was sich jedoch als schwieriger als gedacht herausgestellt hat. Nach dem Gespräch mit Herr Colic habe ich mein Programm überarbeitet und 
+Mit Nael, Mert und Leandro haben wir zeitweise eine Webseite html erstellt was sich jedoch als schwieriger als gedacht herausgestellt hat. Nach dem Gespräch mit Herr Colic habe ich mein Programm überarbeitet und die Begriffe durch Deutsche ersetzt und dann wieder zurück.
 
 
 
