@@ -24,20 +24,14 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 - [x]Modul 431 1721
 - [x]Notenrechner erstellt
 - [x]Notenrechner erstellt einen Schnitt
+- [x]Am Projekt arbeiten von Birgit Rieder
 
-  
-      
 
-- []Interface für Notenrechner erstellen
-- []Am Projekt arbeiten von Birgit Rieder
-- []Fehler im Notenrechner beheben
-
+- [] Interface für die Applikation Holiday Generator
+- [] Bugfixes vom Holiday Generator
+- [] Input kontrolieren damit es keine Fehler gibt.
 
 ## Reflexion
-Heute habe ich eine Notenrechner erstellt. Am Ende konnte ich mich nicht richtig konzentrieren da es so laut war. 
-Mit Nael, Mert und Leandro haben wir zeitweise eine Webseite html erstellt was sich jedoch als schwieriger als gedacht herausgestellt hat. Nach dem Gespräch mit Herr Colic habe ich mein Programm überarbeitet und die Begriffe durch Deutsche ersetzt und dann wieder zurück.
-
-
-
+Heute haben wir mit dem Holiday Generator weitergearbeitet. Ich habe ich mit Vincent Pairprogramming probiert da uns Frau Rieder das gezeigt hat. Es hat gut funktioniert da man zusammen lernt und sich direkt korrigieren kann. Wir sind sehr weit gekommen jedoch müssen wir noch einige Bugs fixen.
 
 
