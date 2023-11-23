@@ -25,11 +25,8 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 - [x]Notenrechner erstellt
 - [x]Notenrechner erstellt einen Schnitt
 - [x]Am Projekt arbeiten von Birgit Rieder
-
-
-- [] Interface für die Applikation Holiday Generator
-- [] Bugfixes vom Holiday Generator
-- [] Input kontrolieren damit es keine Fehler gibt.
+- [x] Bugfixes vom Holiday Generator
+- [x] Input kontrolieren damit es keine Fehler gibt.
 
 ## Reflexion
 Heute haben wir mit dem Holiday Generator weitergearbeitet. Ich habe ich mit Vincent Pairprogramming probiert da uns Frau Rieder das gezeigt hat. Es hat gut funktioniert da man zusammen lernt und sich direkt korrigieren kann. Wir sind sehr weit gekommen jedoch müssen wir noch einige Bugs fixen.
