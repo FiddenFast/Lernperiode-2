@@ -29,6 +29,6 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 - [x] Input kontrolieren damit es keine Fehler gibt.
 
 ## Reflexion
-Heute haben wir mit dem Holiday Generator weitergearbeitet. Ich habe ich mit Vincent Pairprogramming probiert da uns Frau Rieder das gezeigt hat. Es hat gut funktioniert da man zusammen lernt und sich direkt korrigieren kann. Wir sind sehr weit gekommen jedoch müssen wir noch einige Bugs fixen.
+Diese Woche haben wir am Holiday Generator weitergearbeitet. Unser Program wissen vertieft Bugs gefixt und den Input kontrolliert damit keine Probleme mehr entstehen.
 
 
