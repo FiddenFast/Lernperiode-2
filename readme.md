@@ -22,11 +22,23 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 - [x]Modul 431 1719
 - [x]Modul 431 1720
 - [x]Modul 431 1721
-- [x]Notenrechner erstellt
-- [x]Notenrechner erstellt einen Schnitt
-- [x]Am Projekt arbeiten von Birgit Rieder
+- [x] Notenrechner erstellt
+- [x] Notenrechner erstellt einen Schnitt
+- [x] Am Projekt arbeiten von Birgit Rieder
 - [x] Bugfixes vom Holiday Generator
 - [x] Input kontrolieren damit es keine Fehler gibt.
+
+## 5.12
+- [ ] Lebensgenerator: Anfang er soll sich nach der Situation erkundigen
+- [ ] Advent of Code Tga 1 part 1
+- [ ] Lebensgenerator erste Tipps erstellen
+
+
+
+## 12.12
+- [ ] AoC Tag 1 part 2
+- [ ] AoC Tag 2 part1
+- [ ] Lebensgenerator neue Funktionen
 
 ## Reflexion
 Diese Woche haben wir am Holiday Generator weitergearbeitet. Unser Program wissen vertieft Bugs gefixt und den Input kontrolliert damit keine Probleme mehr entstehen.
