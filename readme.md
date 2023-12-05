@@ -29,11 +29,11 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 - [x] Input kontrolieren damit es keine Fehler gibt.
 
 ## 5.12
-- [ ] Lebensgenerator: Anfang er soll sich nach der Situation erkundigen
-- [ ] Advent of Code Tga 1 part 1
+- [x] Lebensgenerator: Anfang er soll sich nach der Situation erkundigen
+- [x] Advent of Code Tag 1 part 1
 - [ ] Lebensgenerator erste Tipps erstellen
 
-
+Heute habe ich den ersten Part des ersten Tages des Adevent of Code gemacht. Ausserdem habe ich mit einer Idee begonnen dem Lebensgenerator und er soll für eine schlechte persöhliche Lage Tipps geben können. Der Advent of Code war eine anspruchsvolle Aufgabe und hat mehr als 1h Zeit benötigt und somit das dritte Arbeitspaket nicht komplett lösen können.
 
 ## 12.12
 - [ ] AoC Tag 1 part 2
@@ -41,6 +41,5 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 - [ ] Lebensgenerator neue Funktionen
 
 ## Reflexion
-Diese Woche haben wir am Holiday Generator weitergearbeitet. Unser Program wissen vertieft Bugs gefixt und den Input kontrolliert damit keine Probleme mehr entstehen.
 
 
