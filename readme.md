@@ -31,15 +31,14 @@ Im Informatikunterricht stehen noch einige Module aus, die ich dringend aufholen
 ## 5.12
 - [x] Lebensgenerator: Anfang er soll sich nach der Situation erkundigen
 - [x] Advent of Code Tag 1 part 1
-- [ ] Lebensgenerator erste Tipps erstellen
-
+      
 Heute habe ich den ersten Part des ersten Tages des Adevent of Code gemacht. Ausserdem habe ich mit einer Idee begonnen dem Lebensgenerator und er soll für eine schlechte persöhliche Lage Tipps geben können. Der Advent of Code war eine anspruchsvolle Aufgabe und hat mehr als 1h Zeit benötigt und somit das dritte Arbeitspaket nicht komplett lösen können.
 
 ## 12.12
 - [ ] AoC Tag 1 part 2
 - [ ] AoC Tag 2 part1
-- [ ] Lebensgenerator neue Funktionen
+
 
 ## Reflexion
-
+Ich habe in dieser Lernperiode viel gelernt 
 
